@@ -1,0 +1,42 @@
+body{
+    background-color: lightpink
+}
+h1{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h2 {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+  p{ 
+      font-size: 15px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+
+.ingredienten li {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+}
+.ingredienten ul {
+    border-style: solid;
+    border-width:small;
+    width: 20vw;
+    margin-top: 100px;
+}
+
+.ingredienten {
+    float: right;
+    
+}
+.footer{
+font-size: 15px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: italic;
+}
